@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Physicist"
   location         : "Earth, Solar System, Milky Way"
-  employer         : "Università degli Studi di Milano Bicocca"
+  employer         : # employer
   uri              : # URL
   email            : "lauriello.stefano@gmail.com" 
 
